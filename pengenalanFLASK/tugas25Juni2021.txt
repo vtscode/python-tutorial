@@ -1,0 +1,2 @@
+1. Buat web sederhana dengan template saja yang isinya bentuk 4 box di html
+2. Buat web sederhana dengan model dan template untuk menampilkan angka Random dari 0 - 100

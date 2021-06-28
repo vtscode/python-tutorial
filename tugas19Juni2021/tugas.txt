@@ -1,0 +1,2 @@
+1. Cari cara sorting dengan cepat. 
+2. Buat web server dengan python dan coba buat shutdown computer secara otomatis dari komputer
