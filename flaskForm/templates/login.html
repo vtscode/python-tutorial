@@ -1,10 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Membuat Desain Form Login HTML Dengan CSS - www.kelasprogrammer.com</title>
+    <title>Membuat Desain Form Login HTML Dengan CSS</title>
+    <!-- CSS Styling -->
     <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='css/style.css')}}">
 </head>
 <body>
+
+<!-- 
+Template index.html berfungsi untuk menampilkan form isian nama dan email 
+yang akan di action ke root directory ‘/’ yang mengacu pada fungsi view index(),
+dengan menggunakan method POST yang artinya nilai yang 
+dikirim akan tersembunyi (tidak tampil di URL).
+-->
      <div id="container">
         <form action="/" method="POST">
             <img 
